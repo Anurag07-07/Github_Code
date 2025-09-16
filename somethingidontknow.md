@@ -1,5 +1,5 @@
 # Github
-git config --global user.name ""
+<!-- git config --global user.name ""
 git config --global user.email ""
 
 ls : to see files in current dir
@@ -26,4 +26,4 @@ git remote add origin url_name
 git remote -v to see all the urls attach to folder
 How to push changes
 git push which_url which_branch
-git push origin master
+git push origin master -->
